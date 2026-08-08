@@ -38,9 +38,6 @@ The recommendation system is integrated with a Flask-based e-commerce applicatio
 - User feedback and ratings
 - Session management
 
-## Files
-
-- `E-Commerce Recommendation System.ipynb` - Machine learning and recommendation system development
 
 ## Note
 
